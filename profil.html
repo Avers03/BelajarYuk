@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./profil.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Times New Roman:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SF Pro Text:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM Sans:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="profil">
+      <div class="ios-uistatus-bar9">
+        <img class="right-side-icon9" alt="" src="./public/right-side6.svg" />
+
+        <div class="left-side9">
+          <div class="time9">
+            <div class="div15">9:41</div>
+          </div>
+        </div>
+        <img class="union-icon9" alt="" />
+      </div>
+      <div class="ios-uihome-indicator7">
+        <div class="home-indicator7"></div>
+      </div>
+      <div class="profile">
+        <img class="profil-icon1" alt="" src="./public/profil@2x.png" />
+
+        <div class="nawasena60gmailcom-parent">
+          <div class="nawasena60gmailcom1">nawasena60@gmail.com</div>
+          <b class="nawasena1">Nawasena</b>
+        </div>
+      </div>
+      <b class="profil1">Profil</b>
+      <img
+        class="bipencil-square-icon"
+        alt=""
+        src="./public/bipencilsquare.svg"
+      />
+
+      <div class="profil-child"></div>
+      <div class="profil-item"></div>
+      <div class="profil-inner"></div>
+      <div class="profil-child1"></div>
+      <div class="group-parent7">
+        <div class="iconoirprofile-circled-parent" id="groupContainer1">
+          <img
+            class="iconoirprofile-circled"
+            alt=""
+            src="./public/iconoirprofilecircled.svg"
+          />
+
+          <b class="profil-saya1">Profil Saya</b>
+          <img class="icon" alt="" src="./public/icon.svg" />
+        </div>
+        <div class="riwayat-belajar-parent" id="payment">
+          <b class="profil-saya1">Berlangganan</b>
+          <img class="icon" alt="" src="./public/icon.svg" />
+
+          <img
+            class="iconoirprofile-circled"
+            alt=""
+            src="./public/antdesignstaroutlined.svg"
+          />
+        </div>
+        <div class="riwayat-belajar-parent" id="riwayat">
+          <b class="profil-saya1">Riwayat Belajar</b>
+          <img class="icon" alt="" src="./public/icon.svg" />
+
+          <img
+            class="iconoirprofile-circled"
+            alt=""
+            src="./public/antdesignstaroutlined1.svg"
+          />
+        </div>
+      </div>
+      <div class="tentang-kami-parent">
+        <b class="tentang-kami">Tentang Kami</b>
+        <img class="icon3" alt="" src="./public/icon.svg" />
+
+        <img class="biinfo-lg-icon" alt="" src="./public/biinfolg.svg" />
+      </div>
+      <div class="pusat-bantuan-parent">
+        <b class="pusat-bantuan">Pusat Bantuan</b>
+        <img class="icon4" alt="" src="./public/icon.svg" />
+
+        <img class="bxphone-icon" alt="" src="./public/bxphone.svg" />
+      </div>
+      <div class="navbar6">
+        <div class="navbar-child3"></div>
+        <div class="fluenthome-16-filled-parent4">
+          <img
+            class="fluenthome-16-filled-icon6"
+            alt=""
+            src="./public/fluenthome16filled4.svg"
+          />
+
+          <img
+            class="bxbar-chart-icon6"
+            alt=""
+            src="./public/bxbarchart4.svg"
+          />
+
+          <img class="vector-icon36" alt="" src="./public/vector16.svg" />
+
+          <img class="bxbar-chart-icon6" alt="" src="./public/ggprofile4.svg" />
+        </div>
+      </div>
+      <div class="icon-parent">
+        <img class="icon5" alt="" src="./public/icon.svg" />
+
+        <div class="keluar-parent">
+          <b class="pusat-bantuan">Keluar</b>
+          <img class="bxphone-icon" alt="" src="./public/rilogoutboxline.svg" />
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var groupContainer1 = document.getElementById("groupContainer1");
+      if (groupContainer1) {
+        groupContainer1.addEventListener("click", function (e) {
+          window.location.href = "./profil-profil-saya.html";
+        });
+      }
+
+      var riwayat = document.getElementById("riwayat");
+      if (riwayat) {
+        riwayat.addEventListener("click", function (e) {
+          window.location.href = "./riwayat-belajar.html";
+        });
+      }
+
+      var payment = document.getElementById("payment");
+      if (payment) {
+        payment.addEventListener("click", function (e) {
+          window.location.href = "./berlangganan.html";
+        });
+      }
+    </script>
+  </body>
+</html>

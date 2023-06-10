@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./login.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Times New Roman:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SF Pro Text:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM Sans:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="login">
+      <div class="ios-uistatus-bar25">
+        <img
+          class="right-side-icon25"
+          alt=""
+          src="./public/right-side211.svg"
+        />
+
+        <div class="left-side25">
+          <div class="time25">
+            <div class="div49">9:41</div>
+          </div>
+        </div>
+        <img class="union-icon25" alt="" />
+      </div>
+      <div class="google-1-group">
+        <img class="google-1-icon1" alt="" src="./public/google-1@2x.png" />
+
+        <div class="google1">Google</div>
+      </div>
+      <div class="lupa-password2" id="lupaPasswordText">Lupa Password?</div>
+      <div class="atau-masuk-dengan1">atau masuk dengan</div>
+      <div class="login-child"></div>
+      <div class="login-item"></div>
+      <div class="belum-punya-akun-container2" id="belumPunyaAkun">
+        <span class="belum-punya-akun2">Belum punya akun? </span>
+        <span class="daftar-di-sini2">Daftar di sini</span>
+      </div>
+      <div class="ios-uihome-indicator13">
+        <div class="home-indicator13"></div>
+      </div>
+      <div class="email-address-parent2">
+        <b class="email-address4">Email Address</b>
+        <div class="input-your-email-wrapper" id="frameContainer1">
+          <div class="input-your-email">input your email</div>
+        </div>
+      </div>
+      <div class="password-parent3">
+        <b class="email-address4">Password</b>
+        <div class="input-your-password-container">
+          <div class="input-your-email">input your password</div>
+          <img class="icon-eye5" alt="" src="./public/icon--eye.svg" />
+        </div>
+      </div>
+      <b class="halo-selamat-datang-container2">
+        <span class="halo-selamat-datang-container3">
+          <p class="halo1">Halo!</p>
+          <p class="halo1">Selamat Datang</p>
+          <p class="halo1">Kembali!</p>
+        </span>
+      </b>
+      <div class="button16">
+        <div class="button17">
+          <b class="input-your-email">Login</b>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var lupaPasswordText = document.getElementById("lupaPasswordText");
+      if (lupaPasswordText) {
+        lupaPasswordText.addEventListener("click", function (e) {
+          window.location.href = "./lupa-pass.html";
+        });
+      }
+
+      var belumPunyaAkun = document.getElementById("belumPunyaAkun");
+      if (belumPunyaAkun) {
+        belumPunyaAkun.addEventListener("click", function (e) {
+          window.location.href = "./register.html";
+        });
+      }
+
+      var frameContainer1 = document.getElementById("frameContainer1");
+      if (frameContainer1) {
+        frameContainer1.addEventListener("click", function (e) {
+          window.location.href = "./login-filled.html";
+        });
+      }
+    </script>
+  </body>
+</html>

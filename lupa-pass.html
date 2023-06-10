@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./lupa-pass.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Times New Roman:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SF Pro Text:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM Sans:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="lupa-pass">
+      <b class="lupa-password-tenang-container">
+        <span class="lupa-password-tenang-container1">
+          <p class="lupa-password">Lupa password?,</p>
+          <p class="lupa-password">Tenang saja!</p>
+        </span>
+      </b>
+      <div class="ios-uihome-indicator11">
+        <div class="home-indicator11"></div>
+      </div>
+      <div class="button12" id="resetPass">
+        <b class="button13">Reset Password</b>
+      </div>
+      <div class="email-address-container">
+        <b class="email-address2">Email Address</b>
+        <div class="masukkan-emailmu-container">
+          <div class="masukkan-emailmu1">Bimasena@gmail.com</div>
+        </div>
+      </div>
+      <div class="belum-punya-akun-container" id="belumPunyaAkun">
+        <span class="belum-punya-akun">Belum punya akun? </span>
+        <span class="daftar-di-sini">Daftar di sini</span>
+      </div>
+      <div class="ios-uistatus-bar23">
+        <img
+          class="right-side-icon23"
+          alt=""
+          src="./public/right-side111.svg"
+        />
+
+        <div class="left-side23">
+          <div class="time23">
+            <div class="div47">9:41</div>
+          </div>
+        </div>
+        <img class="union-icon23" alt="" />
+      </div>
+    </div>
+
+    <script>
+      var belumPunyaAkun = document.getElementById("belumPunyaAkun");
+      if (belumPunyaAkun) {
+        belumPunyaAkun.addEventListener("click", function (e) {
+          window.location.href = "./register.html";
+        });
+      }
+
+      var resetPass = document.getElementById("resetPass");
+      if (resetPass) {
+        resetPass.addEventListener("click", function (e) {
+          window.location.href = "./register.html";
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,357 @@
+.right-side-icon9 {
+  position: absolute;
+  top: 17.33px;
+  right: 18.67px;
+  width: 66.66px;
+  height: 11.34px;
+}
+.div15,
+.left-side9,
+.time9 {
+  position: absolute;
+  width: 54px;
+}
+.div15 {
+  top: 1px;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  height: 20px;
+}
+.left-side9,
+.time9 {
+  height: 21px;
+}
+.time9 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+}
+.left-side9 {
+  top: 12px;
+  left: 24px;
+}
+.union-icon9 {
+  position: relative;
+  width: 0;
+  height: 0;
+}
+.ios-uistatus-bar9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 429px;
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
+.home-indicator7 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--primary);
+  width: 134px;
+  height: 5px;
+}
+.ios-uihome-indicator7,
+.profil-icon1 {
+  position: absolute;
+  top: 892px;
+  left: 26px;
+  width: 375px;
+  height: 34px;
+}
+.profil-icon1 {
+  top: 0;
+  left: 0;
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+.nawasena1,
+.nawasena60gmailcom1 {
+  position: absolute;
+  top: 28px;
+  left: 0;
+}
+.nawasena1 {
+  top: 0;
+  font-size: var(--text-1-semibold-20-size);
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-family: var(--text-3-regular-12);
+  color: var(--primary-1);
+  text-align: right;
+}
+.nawasena60gmailcom-parent,
+.profile {
+  position: absolute;
+  top: 12px;
+  left: 82px;
+  width: 156px;
+  height: 46px;
+}
+.profile {
+  top: 130px;
+  left: 31px;
+  width: 238px;
+  height: 70px;
+  font-size: var(--caption-semibold-12-size);
+  color: var(--dim-gray);
+  font-family: var(--text-s-regular);
+}
+.profil1 {
+  position: absolute;
+  top: 59px;
+  left: 30px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+}
+.bipencil-square-icon {
+  position: absolute;
+  top: 144px;
+  left: 229px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.profil-child,
+.profil-item {
+  background-color: var(--color-gray-1500);
+  width: 368px;
+}
+.profil-child {
+  position: absolute;
+  top: 383px;
+  left: 30px;
+  border-radius: var(--br-8xs);
+  height: 1px;
+}
+.profil-item {
+  top: 395px;
+  left: 28px;
+  height: 3px;
+}
+.profil-child1,
+.profil-inner,
+.profil-item {
+  position: absolute;
+  border-radius: var(--br-8xs);
+}
+.profil-inner {
+  top: 555px;
+  left: 33px;
+  background-color: var(--color-gray-1500);
+  width: 368px;
+  height: 3px;
+}
+.profil-child1 {
+  top: 220px;
+  left: -1px;
+  background-color: rgba(14, 14, 14, 0.3);
+  width: 430px;
+  height: 1px;
+}
+.iconoirprofile-circled {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.icon,
+.profil-saya1 {
+  position: absolute;
+  top: 6px;
+  left: 51px;
+}
+.icon {
+  height: 43.75%;
+  width: 2.47%;
+  top: 28.13%;
+  right: 0;
+  bottom: 28.13%;
+  left: 97.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconoirprofile-circled-parent {
+  cursor: pointer;
+}
+.iconoirprofile-circled-parent,
+.riwayat-belajar-parent {
+  position: relative;
+  width: 365px;
+  height: 32px;
+}
+.group-parent7 {
+  position: absolute;
+  top: 243px;
+  left: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.tentang-kami {
+  position: absolute;
+  top: 4px;
+  left: 44px;
+}
+.biinfo-lg-icon,
+.icon3 {
+  position: absolute;
+  overflow: hidden;
+}
+.icon3 {
+  height: 50%;
+  width: 2.51%;
+  top: 25%;
+  right: 0;
+  bottom: 25%;
+  left: 97.49%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.biinfo-lg-icon {
+  top: 0;
+  left: 0;
+  width: 28px;
+  height: 28px;
+}
+.tentang-kami-parent {
+  position: absolute;
+  top: 424px;
+  left: 40px;
+  width: 358px;
+  height: 28px;
+}
+.pusat-bantuan {
+  position: absolute;
+  top: 5px;
+  left: 44px;
+}
+.bxphone-icon,
+.icon4 {
+  position: absolute;
+  overflow: hidden;
+}
+.icon4 {
+  height: 46.67%;
+  width: 2.51%;
+  top: 26.67%;
+  right: 0;
+  bottom: 26.67%;
+  left: 97.49%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.bxphone-icon {
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+}
+.navbar-child3,
+.pusat-bantuan-parent {
+  position: absolute;
+  top: 484px;
+  left: 40px;
+  width: 358px;
+  height: 30px;
+}
+.navbar-child3 {
+  top: 77px;
+  left: 334.75px;
+  border-radius: var(--br-8xs) var(--br-8xs) 0 0;
+  background-color: var(--primary-main1);
+  width: 52px;
+  height: 3px;
+}
+.bxbar-chart-icon6,
+.fluenthome-16-filled-icon6 {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.bxbar-chart-icon6 {
+  width: 30px;
+  height: 30px;
+}
+.vector-icon36 {
+  position: relative;
+  width: 29.47px;
+  height: 21px;
+}
+.fluenthome-16-filled-parent4 {
+  position: absolute;
+  top: 0.5px;
+  left: 0;
+  width: 428px;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-51xl);
+}
+.icon5,
+.navbar6 {
+  position: absolute;
+  overflow: hidden;
+}
+.navbar6 {
+  top: 846px;
+  left: -0.5px;
+  background-color: var(--color-whitesmoke-200);
+  width: 428px;
+  height: 80px;
+}
+.icon5 {
+  height: 46.67%;
+  width: 2.47%;
+  top: 26.67%;
+  right: 0;
+  bottom: 26.67%;
+  left: 97.53%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.icon-parent,
+.keluar-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 99px;
+  height: 30px;
+}
+.icon-parent {
+  height: 3.24%;
+  width: 85.28%;
+  top: 64.69%;
+  right: 6.07%;
+  bottom: 32.07%;
+  left: 8.64%;
+}
+.profil {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--small-tittle-medium-16-size);
+  color: var(--primary-1);
+  font-family: var(--text-3-regular-12);
+}

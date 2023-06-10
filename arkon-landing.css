@@ -1,0 +1,362 @@
+.artikel {
+  position: absolute;
+  top: 59px;
+  left: 30px;
+  font-size: var(--font-size-5xl);
+  color: var(--foundation-black-darker);
+}
+.arkon-landing-inner,
+.frame-child6 {
+  position: absolute;
+  width: 368px;
+  height: 196px;
+}
+.frame-child6 {
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0),
+    rgba(0, 0, 0, 0.69)
+  );
+}
+.arkon-landing-inner {
+  top: 173px;
+  left: 30px;
+  border-radius: var(--br-8xs);
+  overflow: hidden;
+  background-image: url(./public/frame-479@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.ri-search-line-icon {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+  opacity: 0.4;
+}
+.telusuri-berita-saat {
+  position: relative;
+  letter-spacing: 1px;
+  line-height: 36px;
+}
+.ri-search-line-parent {
+  position: absolute;
+  top: 109px;
+  left: 30px;
+  border-radius: 6px;
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  width: 368px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-3xs);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  color: var(--black);
+}
+.arkon-landing-child {
+  position: absolute;
+  top: 377px;
+  left: 30px;
+  width: 54.38px;
+  height: 7.38px;
+}
+.artikel-pilihan,
+.konsultasi {
+  position: absolute;
+  top: 405px;
+  left: 30px;
+  font-size: var(--small-tittle-medium-16-size);
+  color: var(--ios-key-label);
+}
+.konsultasi {
+  top: 637px;
+}
+.frame-child7,
+.unsplashzyx1bk9mqma-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 174px;
+  height: 174px;
+}
+.unsplashzyx1bk9mqma-icon {
+  border-radius: var(--br-8xs);
+  object-fit: cover;
+}
+.frame-child7 {
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0),
+    rgba(0, 0, 0, 0.69)
+  );
+}
+.jogging-sebagai-investasi {
+  position: absolute;
+  top: 131px;
+  left: 15px;
+  display: inline-block;
+  width: 131px;
+}
+.unsplashzyx1bk9mqma-parent {
+  position: absolute;
+  top: 439px;
+  left: 30px;
+  border-radius: var(--br-8xs);
+  width: 174px;
+  height: 174px;
+  overflow: hidden;
+  background-image: url(./public/frame-480@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+}
+.peluncuran-space-x {
+  position: absolute;
+  top: 140.57px;
+  left: 14.09px;
+  display: inline-block;
+  width: 131px;
+}
+.unsplashohou-5uviyq-parent {
+  position: absolute;
+  top: 439px;
+  left: 224px;
+  border-radius: var(--br-8xs);
+  width: 174px;
+  height: 174px;
+  overflow: hidden;
+  background-image: url(./public/frame-481@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.selengkapnya {
+  position: absolute;
+  top: 408px;
+  left: 311px;
+  line-height: 18px;
+  font-weight: 600;
+  color: var(--primary-main);
+  text-align: center;
+}
+.frame-child9,
+.unsplashhwqri3cypum-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 174px;
+}
+.unsplashhwqri3cypum-icon {
+  height: 174px;
+  object-fit: cover;
+}
+.frame-child9 {
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0),
+    rgba(0, 0, 0, 0.69)
+  );
+  height: 221px;
+}
+.harvard-university {
+  position: absolute;
+  top: 149.91px;
+  left: 9.86px;
+}
+.unsplashhwqri3cypum-parent {
+  position: absolute;
+  top: 675px;
+  left: 30px;
+  border-radius: var(--br-8xs);
+  width: 174px;
+  height: 221px;
+  overflow: hidden;
+  background-image: url(./public/frame-482@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+}
+.konsultasi-diet {
+  position: absolute;
+  top: 149.2px;
+  left: 7.81px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 675px;
+  left: 224px;
+  border-radius: var(--br-8xs);
+  width: 174px;
+  height: 221px;
+  overflow: hidden;
+  background-image: url(./public/frame-483@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+}
+.right-side-icon7 {
+  position: absolute;
+  top: 17.33px;
+  right: 18.67px;
+  width: 66.66px;
+  height: 11.34px;
+}
+.div10,
+.left-side7,
+.time7 {
+  position: absolute;
+  width: 54px;
+}
+.div10 {
+  top: 1px;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  height: 20px;
+}
+.left-side7,
+.time7 {
+  height: 21px;
+}
+.time7 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+}
+.left-side7 {
+  top: 12px;
+  left: 24px;
+}
+.union-icon7 {
+  position: relative;
+  width: 0;
+  height: 0;
+}
+.ios-uistatus-bar7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 429px;
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--foundation-black-darker);
+  font-family: var(--font-inter);
+}
+.bichat-left-dots-icon {
+  position: absolute;
+  top: 64px;
+  left: 373px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.arkon-landing-item {
+  position: absolute;
+  top: 62px;
+  left: 393px;
+  border-radius: 50%;
+  background-color: #ff3737;
+  width: 5px;
+  height: 5px;
+}
+.navbar-child2 {
+  position: absolute;
+  top: 77px;
+  left: 43px;
+  border-radius: var(--br-8xs) var(--br-8xs) 0 0;
+  background-color: var(--primary-main1);
+  width: 52px;
+  height: 3px;
+}
+.bxbar-chart-icon5,
+.fluenthome-16-filled-icon5 {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.bxbar-chart-icon5 {
+  width: 30px;
+  height: 30px;
+}
+.vector-icon35 {
+  position: relative;
+  width: 29.47px;
+  height: 21px;
+}
+.fluenthome-16-filled-parent3,
+.navbar5 {
+  position: absolute;
+  width: 428px;
+  height: 80px;
+}
+.fluenthome-16-filled-parent3 {
+  top: 0;
+  left: 0.42px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-51xl);
+}
+.navbar5 {
+  top: 846px;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  overflow: hidden;
+}
+.unsplashrloawxt2fea-icon1 {
+  position: absolute;
+  top: 167.93px;
+  left: 29.64px;
+  border-radius: var(--br-8xs);
+  width: 367.64px;
+  height: 201.07px;
+  object-fit: cover;
+}
+.penelitian-zat-beracun1 {
+  position: relative;
+}
+.penelitian-zat-beracun-wrapper {
+  position: absolute;
+  top: 326px;
+  left: 29.64px;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 1px solid var(--ios-key-label);
+  box-sizing: border-box;
+  width: 369px;
+  height: 43px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--small-tittle-medium-16-size);
+  color: var(--ios-key-label);
+}
+.arkon-landing {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 926px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--caption-semibold-12-size);
+  color: var(--white);
+  font-family: var(--text-3-regular-12);
+}

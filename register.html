@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./register.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Times New Roman:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SF Pro Text:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM Sans:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="register">
+      <div class="ios-uistatus-bar20">
+        <img
+          class="right-side-icon20"
+          alt=""
+          src="./public/right-side211.svg"
+        />
+
+        <div class="left-side20">
+          <div class="time20">
+            <div class="div44">9:41</div>
+          </div>
+        </div>
+        <img class="union-icon20" alt="" />
+      </div>
+      <b class="daftarkan-akun1">Daftarkan Akun</b>
+      <div class="sudah-punya-akun-container1" id="sudahPunyaAkun">
+        <span class="sudah-punya-akun1">Sudah punya akun? </span>
+        <span class="masuk1">Masuk</span>
+      </div>
+      <div class="ios-uihome-indicator10">
+        <div class="home-indicator10"></div>
+      </div>
+      <div class="button8">
+        <b class="button9">Daftarkan akunmu</b>
+      </div>
+      <div class="nama-lengkap-group">
+        <b class="nama-lengkap1">Nama Lengkap</b>
+        <div class="masukkan-nama-lengkapmu-wrapper" id="frameContainer">
+          <div class="masukkan-nama-lengkapmu">Masukkan nama lengkapmu</div>
+        </div>
+      </div>
+      <div class="email-address-group">
+        <b class="nama-lengkap1">Email Address</b>
+        <div class="masukkan-emailmu-wrapper">
+          <div class="masukkan-nama-lengkapmu">Masukkan emailmu</div>
+        </div>
+      </div>
+      <div class="password-container">
+        <b class="nama-lengkap1">Password</b>
+        <div class="input-your-password-parent">
+          <div class="masukkan-nama-lengkapmu">input your password</div>
+          <img class="icon-eye2" alt="" src="./public/icon--eye.svg" />
+        </div>
+      </div>
+      <div class="password-parent1">
+        <b class="nama-lengkap1">Password</b>
+        <div class="input-your-password-parent">
+          <div class="masukkan-nama-lengkapmu">input your password</div>
+          <img class="icon-eye2" alt="" src="./public/icon--eye.svg" />
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var sudahPunyaAkun = document.getElementById("sudahPunyaAkun");
+      if (sudahPunyaAkun) {
+        sudahPunyaAkun.addEventListener("click", function (e) {
+          window.location.href = "./login.html";
+        });
+      }
+      
+      var frameContainer = document.getElementById("frameContainer");
+      if (frameContainer) {
+        frameContainer.addEventListener("click", function (e) {
+          window.location.href = "./register-filled.html";
+        });
+      }
+      </script>
+  </body>
+</html>

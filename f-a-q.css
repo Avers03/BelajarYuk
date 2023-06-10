@@ -1,0 +1,238 @@
+.navbar-child4 {
+  position: absolute;
+  top: 77px;
+  left: 43px;
+  border-radius: var(--br-8xs) var(--br-8xs) 0 0;
+  background-color: var(--primary-main1);
+  width: 52px;
+  height: 3px;
+}
+.bxbar-chart-icon7,
+.fluenthome-16-filled-icon7 {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.bxbar-chart-icon7 {
+  width: 30px;
+  height: 30px;
+}
+.vector-icon37 {
+  position: relative;
+  width: 29.47px;
+  height: 21px;
+}
+.fluenthome-16-filled-parent5,
+.navbar7 {
+  position: absolute;
+  width: 428px;
+  height: 80px;
+}
+.fluenthome-16-filled-parent5 {
+  top: 0;
+  left: 0.42px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-51xl);
+}
+.navbar7 {
+  top: 850.25px;
+  left: 1.07px;
+  background-color: var(--color-whitesmoke-200);
+  overflow: hidden;
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid #707070;
+  box-sizing: border-box;
+  width: 383px;
+  height: 181.5px;
+}
+.bagaimana-alur-pendaftaran {
+  position: relative;
+  letter-spacing: 1px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 322.28px;
+  flex-shrink: 0;
+}
+.div16 {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  font-family: var(--text-s-regular);
+}
+.bagaimana-alur-pendaftaran-unt-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--primary-2);
+  border: 1px solid var(--ios-key-label);
+  box-sizing: border-box;
+  width: 383px;
+  height: 55px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-8xs);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8xl);
+}
+.ada-banyak-jenis {
+  margin: 0;
+}
+.ada-banyak-jenis-container {
+  position: absolute;
+  top: 76.75px;
+  left: 29.64px;
+  letter-spacing: 1px;
+  line-height: 20px;
+  color: var(--ios-key-label);
+  display: inline-block;
+  width: 339px;
+}
+.rectangle-parent3 {
+  position: relative;
+  width: 383px;
+  height: 181.5px;
+}
+.div17 {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  font-family: var(--text-s-regular);
+  color: var(--color-mediumslateblue-100);
+}
+.bagaimana-alur-pendaftaran-unt-group {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-1300);
+  width: 383px;
+  height: 55px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-8xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8xl);
+}
+.frame-parent87,
+.group-parent8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent87 {
+  align-items: flex-start;
+  gap: var(--gap-base);
+  color: var(--ios-key-label);
+}
+.group-parent8 {
+  position: absolute;
+  top: 103.5px;
+  left: 22.5px;
+  align-items: center;
+  gap: 22px;
+}
+.faq1 {
+  position: relative;
+}
+.ajukan-pertanyaan {
+  position: relative;
+  font-size: var(--caption-semibold-12-size);
+  line-height: 18px;
+  font-weight: 600;
+  color: var(--primary-main);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 127.4px;
+  height: 36px;
+  flex-shrink: 0;
+}
+.faq-parent {
+  position: absolute;
+  top: 57.5px;
+  left: 23.98px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 211px;
+  font-size: var(--text-1-semibold-20-size);
+  color: var(--color-gray-100);
+}
+.right-side-icon10 {
+  position: absolute;
+  top: 17.33px;
+  right: 18.67px;
+  width: 66.66px;
+  height: 11.34px;
+}
+.div25 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54px;
+  height: 20px;
+}
+.left-side10,
+.time10 {
+  position: absolute;
+  width: 54px;
+  height: 21px;
+}
+.time10 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+}
+.left-side10 {
+  top: 12px;
+  left: 24px;
+}
+.union-icon10 {
+  position: relative;
+  width: 0;
+  height: 0;
+}
+.faq,
+.ios-uistatus-bar10 {
+  background-color: var(--white);
+}
+.ios-uistatus-bar10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 429px;
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--foundation-black-darker);
+  font-family: var(--font-inter);
+}
+.faq {
+  position: relative;
+  width: 100%;
+  height: 922px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--caption-semibold-12-size);
+  color: var(--primary-5);
+  font-family: var(--text-3-regular-12);
+}

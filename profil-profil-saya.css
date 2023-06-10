@@ -1,0 +1,239 @@
+.right-side-icon8 {
+  position: absolute;
+  top: 17.33px;
+  right: 18.67px;
+  width: 66.66px;
+  height: 11.34px;
+}
+.div11,
+.left-side8,
+.time8 {
+  position: absolute;
+  width: 54px;
+}
+.div11 {
+  top: 1px;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  height: 20px;
+}
+.left-side8,
+.time8 {
+  height: 21px;
+}
+.time8 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+}
+.left-side8 {
+  top: 12px;
+  left: 24px;
+}
+.union-icon8 {
+  position: relative;
+  width: 0;
+  height: 0;
+}
+.ios-uistatus-bar8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 429px;
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-inter);
+}
+.home-indicator6 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--primary);
+  width: 134px;
+  height: 5px;
+}
+.ios-uihome-indicator6 {
+  position: absolute;
+  top: 892px;
+  left: 26px;
+  width: 375px;
+  height: 34px;
+}
+.back-icon2,
+.profil-saya {
+  position: absolute;
+  top: 74px;
+}
+.profil-saya {
+  left: 75px;
+  font-size: var(--text-1-semibold-20-size);
+  text-align: center;
+}
+.back-icon2 {
+  left: 39px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.ganti-foto-profil {
+  position: absolute;
+  top: 0;
+  left: 17px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 228px;
+}
+.icon-pen {
+  position: absolute;
+  height: 66.67%;
+  width: 5.71%;
+  top: 16.67%;
+  right: 94.49%;
+  bottom: 16.67%;
+  left: -0.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ganti-foto-profil-parent {
+  position: absolute;
+  top: 166px;
+  left: 128px;
+  width: 245px;
+  height: 21px;
+  font-size: var(--body-medium-14-size);
+  color: var(--primary-1);
+  font-family: var(--text-s-regular);
+}
+.nawasena {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  font-weight: 500;
+}
+.form-alamat-child,
+.nama {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.form-alamat-child {
+  top: 51px;
+  background-color: var(--gainsboro);
+  width: 368px;
+  height: 1px;
+}
+.form-alamat {
+  position: absolute;
+  top: 235px;
+  left: 30px;
+  width: 368px;
+  height: 52px;
+}
+.ubah {
+  position: absolute;
+  top: 28px;
+  left: 331px;
+  font-weight: 600;
+  font-family: var(--text-s-regular);
+  color: var(--primary-2);
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 37px;
+}
+.form-alamat1,
+.form-alamat2 {
+  position: absolute;
+  top: 371px;
+  left: 30px;
+  width: 368px;
+  height: 52px;
+}
+.form-alamat2 {
+  top: 303px;
+}
+.div13,
+.password {
+  position: absolute;
+  top: 26px;
+  left: 0;
+}
+.password {
+  top: 0;
+  font-family: var(--text-3-regular-12);
+}
+.ubah2 {
+  position: absolute;
+  top: 28px;
+  left: 331px;
+  font-weight: 600;
+  color: var(--primary-2);
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 37px;
+}
+.form-alamat3,
+.form-alamat4,
+.profil-icon {
+  position: absolute;
+  left: 30px;
+  width: 368px;
+  height: 52px;
+}
+.form-alamat3 {
+  top: 447px;
+  font-family: var(--text-s-regular);
+}
+.form-alamat4,
+.profil-icon {
+  top: 523px;
+}
+.profil-icon {
+  top: 142px;
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+.button1 {
+  position: relative;
+  letter-spacing: 1px;
+  line-height: 36px;
+}
+.button {
+  position: absolute;
+  top: 836px;
+  left: 30px;
+  border-radius: var(--br-5xs);
+  background-color: var(--primary-main);
+  width: 368px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-7xs) var(--padding-131xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--text-1-semibold-20-size);
+  color: var(--white);
+}
+.profil-profil-saya {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--caption-semibold-12-size);
+  color: var(--color-gray-100);
+  font-family: var(--text-3-regular-12);
+}

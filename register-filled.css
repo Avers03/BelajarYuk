@@ -1,0 +1,194 @@
+.right-side-icon19 {
+  position: absolute;
+  top: 17.33px;
+  right: 18.67px;
+  width: 66.66px;
+  height: 11.34px;
+}
+.div43 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54px;
+  height: 20px;
+}
+.left-side19,
+.time19 {
+  position: absolute;
+  width: 54px;
+  height: 21px;
+}
+.time19 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+}
+.left-side19 {
+  top: 12px;
+  left: 24px;
+}
+.union-icon19 {
+  position: relative;
+  width: 0;
+  height: 0;
+}
+.ios-uistatus-bar19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 429px;
+  height: 44px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--foundation-black-darker);
+  font-family: var(--font-inter);
+}
+.daftarkan-akun {
+  position: absolute;
+  top: 141px;
+  left: 25px;
+  font-size: var(--heading-h2-heading-bold-size);
+  letter-spacing: 1px;
+  line-height: 140%;
+  display: inline-block;
+  color: var(--primary-main);
+  width: 264px;
+}
+.sudah-punya-akun {
+  font-weight: 500;
+}
+.masuk {
+  font-weight: 800;
+  color: var(--color-mediumslateblue-100);
+}
+.sudah-punya-akun-container {
+  position: absolute;
+  top: 803px;
+  left: 89px;
+  letter-spacing: 1px;
+  line-height: 36px;
+  text-align: center;
+  cursor: pointer;
+  color: var(--color-gray-100);
+}
+.home-indicator9 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--primary);
+  width: 134px;
+  height: 5px;
+}
+.button6,
+.ios-uihome-indicator9 {
+  position: absolute;
+  top: 892px;
+  left: 26px;
+  width: 375px;
+  height: 34px;
+}
+.button6 {
+  top: 723px;
+  left: 30px;
+  border-radius: var(--br-5xs);
+  background-color: var(--primary-main);
+  width: 368px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-7xs) var(--padding-131xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+}
+.bima-sena,
+.nama-lengkap {
+  letter-spacing: 1px;
+  line-height: 36px;
+}
+.nama-lengkap {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bima-sena {
+  position: relative;
+}
+.bima-sena-wrapper {
+  position: absolute;
+  top: 43px;
+  left: -1px;
+  border-radius: var(--br-xs);
+  background-color: var(--white1);
+  border: 1px solid var(--primary-1);
+  box-sizing: border-box;
+  width: 370px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: flex-start;
+  color: var(--primary-1);
+}
+.email-address-parent,
+.nama-lengkap-parent {
+  position: absolute;
+  top: 255px;
+  left: 30px;
+  width: 368px;
+  height: 100px;
+}
+.email-address-parent {
+  top: 367px;
+  left: 29px;
+}
+.icon-eye {
+  position: relative;
+  width: 17px;
+  height: 12px;
+}
+.parent {
+  position: absolute;
+  top: 43px;
+  left: -1px;
+  border-radius: var(--br-xs);
+  background-color: var(--white1);
+  border: 1px solid var(--primary-1);
+  box-sizing: border-box;
+  width: 370px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+  align-items: center;
+  justify-content: space-between;
+  color: var(--primary-1);
+}
+.password-group,
+.password-parent {
+  position: absolute;
+  top: 479px;
+  left: 29px;
+  width: 368px;
+  height: 100px;
+}
+.password-group {
+  top: 591px;
+}
+.register-filled {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--small-tittle-medium-16-size);
+  color: var(--ios-key-label);
+  font-family: var(--text-3-regular-12);
+}
